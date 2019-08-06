@@ -7,9 +7,9 @@
 
 ## Examples
 
-### Normal text
+### Text
 
-`copyToClipboard('This is normal text');`
+`copyToClipboard('This is normal text')`
 
 ### Rich text
 
