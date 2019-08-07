@@ -7,10 +7,13 @@ export const copyToClipboard = (content: string, richHtml = false) => {
   document.body.appendChild(textArea);
   textArea.select();
 
-  const listener = (e: any) => {
-    e.clipboardData.setData('text/html', content);
-    e.clipboardData.setData('text/plain', content);
+  const listener = (e: ClipboardEvent) => {
     e.preventDefault();
+
+    if (e.clipboardData) {
+      e.clipboardData.setData('text/html', content);
+      e.clipboardData.setData('text/plain', content);
+    }
   };
 
   const copy = () => document.execCommand('copy');
