@@ -1,7 +1,7 @@
 export const copyToClipboard = (content: string, richHtml = false) => {
   const textArea = document.createElement('textarea');
-  textArea.style.maxHeight = '0px';
-  textArea.style.height = '0px';
+  textArea.style.maxHeight = '0';
+  textArea.style.height = '0';
   textArea.style.opacity = '0';
   textArea.value = content;
   document.body.appendChild(textArea);
