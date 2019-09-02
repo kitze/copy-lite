@@ -1,4 +1,7 @@
 export const copyToClipboard = (content: string, richHtml = false) => {
+  if (!richHtml && navigator.clipboard) {
+    return navigator.clipboard.writeText(content);
+  }
   const textArea = document.createElement('textarea');
   textArea.style.maxHeight = '0';
   textArea.style.height = '0';
