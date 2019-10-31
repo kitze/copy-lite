@@ -2,6 +2,9 @@ export const copyToClipboard = (content: string, richHtml = false) => {
   if (!richHtml && navigator.clipboard) {
     return navigator.clipboard.writeText(content);
   }
+  
+  const activeEl = document.activeElement
+  
   const textArea = document.createElement('textarea');
   textArea.style.maxHeight = '0';
   textArea.style.height = '0';
@@ -28,6 +31,8 @@ export const copyToClipboard = (content: string, richHtml = false) => {
   } else {
     copy();
   }
+  
+  activeEl && activeEl.focus()
 
   document.body.removeChild(textArea);
 };
