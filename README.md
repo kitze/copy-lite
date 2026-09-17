@@ -39,8 +39,16 @@ Copy to clipboard function with no dependencies
       The browser for web developers.
     </td>
   </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <strong><a href="https://supermac.io/?ref=kitze%2Fcopy-lite">Supermac</a></strong><br>
+      A macOS command center for everyday workflows.
+    </td>
+  </tr>
 </table>
 
+<h3>Support this project</h3>
+<p><a href="https://buymeacoffee.com/kitze?ref=kitze%2Fcopy-lite">Buy me a coffee</a> · <a href="https://github.com/sponsors/kitze?ref=kitze%2Fcopy-lite">GitHub Sponsors</a></p>
 <h3>Sponsors</h3>
 <table>
   <tr>
@@ -130,38 +138,21 @@ Copy to clipboard function with no dependencies
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <strong><a href="https://glink.so/kitze/mindy?ref=kitze%2Fcopy-lite">Mindy</a></strong><br>
-      An AI browser that keeps your work organized.
-    </td>
-    <td width="50%" valign="top">
-      <strong><a href="https://glink.so/kitze/supermac?ref=kitze%2Fcopy-lite">Supermac</a></strong><br>
-      A macOS command center for everyday workflows.
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <strong><a href="https://glink.so/kitze/k67-1787136958277?ref=kitze%2Fcopy-lite">K67</a></strong><br>
-      A fork of T3 Code for working with coding agents.
-    </td>
-    <td width="50%" valign="top">
       <strong><a href="https://perkz.to/?ref=kitze%2Fcopy-lite">Perkz</a></strong><br>
       Sell and manage access to private GitHub repositories.
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <strong><a href="https://glink.so/kitze/labz?ref=kitze%2Fcopy-lite">Labz</a></strong><br>
       A platform for teaching workshops and courses.
     </td>
-    <td width="50%" valign="top">
-      <strong><a href="https://glink.so/kitze/popcorner-1762890546557?ref=kitze%2Fcopy-lite">Popcorner</a></strong><br>
-      Organize your movies and TV shows.
-    </td>
   </tr>
   <tr>
-    <td colspan="2" valign="top">
-      <strong><a href="https://glink.so/kitze/champions?ref=kitze%2Fcopy-lite">Champions Online</a></strong><br>
-      A free multiplayer card-game platform.
+    <td width="50%" valign="top">
+      <strong><a href="https://justwrite.ink/?ref=kitze%2Fcopy-lite">JustWrite</a></strong>
+    </td>
+    <td width="50%" valign="top">
+      <strong><a href="https://releaseflow.net/?ref=kitze%2Fcopy-lite">Releaseflow</a></strong><br>
+      App updates and downloads.
     </td>
   </tr>
 </table>
