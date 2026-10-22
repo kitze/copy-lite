@@ -157,6 +157,13 @@ Copy to clipboard function with no dependencies
       We&#39;re 3 operators (digitalocean, uber, shopify) turned investors who write first checks into folks with ambition to build global businesses.
     </td>
     <td width="33%" valign="top">
+      <a href="https://www.rakazo.com/?ref=kitze%2Fcopy-lite"><img src="https://rakazo.com/brand/rakazo-mark.png" width="40" alt="Rakazo logo"></a><br>
+      <strong><a href="https://www.rakazo.com/?ref=kitze%2Fcopy-lite">Rakazo</a></strong><br>
+      Open source Grok Bot
+    </td>
+  </tr>
+  <tr>
+    <td width="100%" colspan="3" valign="top">
       <strong><a href="https://www.kitze.io/sponsors?ref=kitze%2Fcopy-lite">Your product here</a></strong><br>
       Reach developers in every kitze repo.
     </td>
